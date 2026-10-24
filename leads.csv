@@ -1,0 +1,41 @@
+name,company,source,status,last_contact_date,deal_value_usd,sector,company_type,last_funding_round,months_since_funding,hq_country,offshore_hubs,open_roles
+Noah Lopez (CTO),Scholarly,LinkedIn,New,2026-09-04,5394,Education,Startup,Series A,17,UK,Cambodia; Nepal; Philippines,2
+Chloe Murphy (Head of HR),Nurturly,LinkedIn,Won,2026-09-06,15540,Health,Startup,Seed,18,Canada,Cambodia; Indonesia,5
+Omar Johansson (CTO),Fluxpoint AI,Referral,Negotiation,,10305,Tech,Startup,Seed,17,Sweden,India,3
+Maya Becker (CTO),Orbitly,LinkedIn,Lost,2026-10-23,19632,Tech,Startup,Seed,6,Japan,Vietnam,6
+David Walker (Engineering Manager),Synapse Grid,Event,Contacted,2026-10-22,23904,Tech,Scale-up,Series B,24,Netherlands,India,6
+Nina Rossi (Engineering Manager),Dosewise,Website,Shortlist sent,2026-10-18,33060,Health,Startup,Seed,6,UK,Cambodia,12
+Marcus Haddad (Engineering Manager),Pulsewell,LinkedIn,Contacted,2026-10-21,9561,Health,Scale-up,Series B,13,Australia,India; Nepal,3
+Oliver Ali (CTO),Vitalis,Referral,Lost,2026-08-30,20594,Health,Startup,Series A,5,Singapore,Cambodia; Philippines,7
+Samuel Rahman (Head of HR),Clinix,Cold email,Discovery call,2026-10-24,20994,Health,Enterprise,None,,Australia,Cambodia; Vietnam,6
+Leo Sharma (Founder),Lumen Learning Co,LinkedIn,Contacted,2026-10-21,26590,Education,Enterprise,None,,Sweden,India; Indonesia; Vietnam,10
+Amira Patel (Head of HR),Medivo,Cold email,New,2026-10-16,48300,Health,Startup,Seed,1,UK,India,15
+James Turner (Head of HR),Quizora,Cold email,Shortlist sent,2026-10-23,20160,Education,Startup,Series A,1,Sweden,Cambodia,9
+Tom Weber (Founder),Tensorway,Website,Contacted,2026-10-21,32040,Tech,Enterprise,None,,Singapore,Cambodia; Philippines; Vietnam,8
+Zara Lee (CTO),Corelane,Cold email,New,2026-10-15,20508,Tech,Startup,Series A,1,Japan,Nepal; Vietnam,6
+Henrik Mehta (Founder),Kodexa,LinkedIn,Contacted,2026-10-19,16624,Tech,Enterprise,None,,Australia,India; Indonesia; Philippines,4
+Raj Nakamura (Head of HR),Wellspring Digital,Purple Page,Contacted,2026-10-23,28090,Health,Startup,Series A,5,Japan,Vietnam,10
+Yuki Novak (Head of HR),Pathfinder Ed,Purple Page,Won,2026-10-19,19390,Education,Scale-up,Series B,12,Japan,India; Vietnam,7
+Priya Chen (Founder),Healthline Bio,Referral,Won,2026-10-24,45752,Health,Scale-up,Series B,5,Singapore,Cambodia; Indonesia; Philippines,14
+Aisha Aziz (Head of HR),Campusly,Referral,Negotiation,2026-10-13,8634,Education,Scale-up,Series B,20,Sweden,Cambodia; Nepal; Philippines,3
+Ben Sato (CTO),Notebloom,Website,Won,2026-10-19,8445,Education,Enterprise,None,,Germany,Cambodia; India; Vietnam,3
+Ethan Cohen (Head of HR),Theralink,LinkedIn,Lost,2026-09-30,21800,Health,Startup,Series A,6,Singapore,Cambodia; Nepal; Vietnam,8
+Ava Hughes (CTO),CareNest,Referral,Negotation,2026-10-18,12908,Health,Scale-up,Series C+,11,Germany,Philippines; Vietnam,4
+Ruby Brown (Head of HR),Skillbridge,LinkedIn,Discovery call,2026-10-24,17310,Education,Enterprise,None,,UK,Indonesia; Vietnam,6
+Leah Fraser (CTO),Classwise,Website,Won,2026-10-09,61340,Education,Unicorn,Series C+,8,Singapore,India; Indonesia; Vietnam,20
+Carlos Khan (Founder),Curaview,Purple Page,Discovery call,2026-10-12,35453,Health,Startup,Series A,4,UK,Indonesia; Nepal,11
+Fatima Singh (CTO),Remedi,Purple Page,Shortlist sent,2026-10-18,69318,Health,Unicorn,Series C+,6,Germany,Cambodia; India,18
+Felix Martin (CTO),Bytegrove,Event,Won,2026-09-20,69819,Tech,Unicorn,Series C+,12,Japan,Cambodia; Philippines,17
+Grace Kim (Head of HR),Nimbus Stack,Website,Contacted,2026-10-16,23328,Tech,Scale-up,Series C+,13,Singapore,Cambodia; Indonesia; Vietnam,6
+Mei Tanaka (Engineering Manager),Heartbeat Labs,Website,Won,2026-09-27,30290,Health,Startup,Series A,1,UAE,Cambodia; Nepal,10
+Hannah Wright (CTO),Learnloop,Purple Page,Contacted,2026-10-22,59717,Education,Unicorn,Series C+,10,UK,Philippines,19
+Daniel Garcia (Head of HR),Tutorly,LinkedIn,Contacted,2026-10-12,18529,Education,Enterprise,None,,Germany,India; Indonesia,7
+Sofia Miller (Engineering Manager),Vantiq Labs,Event,Shortlist sent,2026-09-28,22494,Tech,Scale-up,Series C+,17,Singapore,India; Indonesia; Philippines,6
+Lukas Larsen (Engineering Manager),Pixelforge,Purple Page,New,2026-10-16,27640,Tech,Startup,Series A,2,UK,Cambodia; Nepal,8
+Arjun Berg (Engineering Manager),Stratify Cloud,Event,Negotiation,2026-09-20,28112,Tech,Scale-up,Series C+,24,Netherlands,Cambodia; Nepal; Philippines,7
+Kenji Dubois (Engineering Manager),Brightpath Academy,Purple Page,Negotiation,2026-09-23,22329,Education,Startup,Series A,3,UAE,Philippines,9
+Isla Clarke (CTO),EduSpark,Website,Contacted,2026-10-19,9744,Education,Startup,Series A,17,Netherlands,India; Nepal; Philippines,4
+Ingrid Schmidt (Engineering Manager),Mindmesh,Cold email,Discovery call,2026-10-19,25299,Education,Enterprise,None,,Netherlands,India; Indonesia,9
+Sarah Evans (Founder),Quantlo,Referral,Won,2026-10-19,23574,Tech,Scale-up,Series B,21,Japan,Indonesia; Nepal; Philippines,6
+Elena Okafor (CTO),Datahive,Cold email,Discovery call,2026-10-17,36140,Tech,Startup,Series A,2,Singapore,Indonesia; Nepal,10
+Nina Rossi (Engineering Manager),Dosewise,Website,Shortlist sent,2026-10-18,33060,Health,Startup,Seed,6,UK,Cambodia,12

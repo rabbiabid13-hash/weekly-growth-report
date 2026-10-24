@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Talvette//Weekly Growth Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Talvette follow-ups
+BEGIN:VEVENT
+UID:followups-20261024@talvette-followups
+DTSTAMP:20261024T031215Z
+DTSTART:20261026T040000Z
+DTEND:20261026T051500Z
+SUMMARY:Follow up: 5 stale leads (Stratify Cloud\, Vantiq Labs\, Brightpath
+  Academy +2 more)
+DESCRIPTION:1. Stratify Cloud – Arjun Berg\, Engineering Manager\nNegotia
+ tion | $28\,112 | 7 open roles | last contact 34 days ago\nNext: Re-engage
+  with a short check-in\, then send final terms and agree a start date for 
+ the first hires.\n\n2. Vantiq Labs – Sofia Miller\, Engineering Manager\
+ nShortlist sent | $22\,494 | 6 open roles | last contact 26 days ago\nNext
+ : Re-engage with a short check-in\, then chase feedback on the shortlist a
+ nd lock in interview slots.\n\n3. Brightpath Academy – Kenji Dubois\, En
+ gineering Manager\nNegotiation | $22\,329 | 9 open roles | last contact 31
+  days ago\nNext: Re-engage with a short check-in\, then send final terms a
+ nd agree a start date for the first hires\; mention their recent Series A 
+ round.\n\n4. Fluxpoint AI – Omar Johansson\, CTO\nNegotiation | $10\,305
+  | 3 open roles | no contact date on record\nNext: Re-engage with a short 
+ check-in\, then send final terms and agree a start date for the first hire
+ s.\n\n5. Scholarly – Noah Lopez\, CTO\nNew | $5\,394 | 2 open roles | la
+ st contact 50 days ago\nNext: Re-engage with a short check-in\, then send 
+ an intro email with 2-3 vetted Dhaka profiles for their 2 open roles.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
